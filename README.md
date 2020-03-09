@@ -1,4 +1,4 @@
-# Chrome-Debug
+# Fa🤪ke Mac App - Chrome-Debug
 
 Open Mac Chrome with remote-debugging-port=9222
 
